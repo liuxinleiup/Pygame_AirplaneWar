@@ -1,0 +1,2 @@
+# Pygame_AirplaneWar
+Python利用pygame实现飞机大战游戏
